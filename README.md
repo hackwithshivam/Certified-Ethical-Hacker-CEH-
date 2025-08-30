@@ -1,4 +1,4 @@
-# Certified-Ethical-Hacker-CEH-
+# Certified-Ethical-Hacker-CEH-Question-sets
 A brief overview of the Certified Ethical Hacker (CEH) certification, including key exam details and the role of an ethical hacker
 The Certified Ethical Hacker (CEH) certification is designed for professionals who possess the skills to identify and exploit vulnerabilities in computer systems—using the same methods as malicious hackers, but in a legal, authorized, and responsible manner. The goal is to assess the security of systems by simulating real-world attacks, all while maintaining a strong ethical foundation. This certification focuses on a vendor-neutral approach to ethical hacking and network security.
 
