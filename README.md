@@ -32,3 +32,5 @@ Chapter 16 - <a href="http://yeahhub.com/cehv9-practice-exam-questions/chapter16
 Chapter 17 - <a href="http://yeahhub.com/cehv9-practice-exam-questions/chapter17-evasion.php" class="button">Evasion (20)</a><br>
 Chapter 18 - <a href="http://yeahhub.com/cehv9-practice-exam-questions/chapter18-cloud-technologies-security.php" class="button">Cloud Technologies & Security (20)</a><br>
 Chapter 19 - <a href="http://yeahhub.com/cehv9-practice-exam-questions/chapter19-physical-security.php" class="button">Physical Security (20)</a><br>
+I dont have any rights to claim that this as mine
+<a href="www.yeahhub.com">Physical Security (20)</a><br>
